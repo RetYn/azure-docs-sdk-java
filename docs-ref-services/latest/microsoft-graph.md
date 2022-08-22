@@ -1,12 +1,12 @@
 ---
-author: joshfree
-description: Reference for Azure Microsoft Graph SDK for Java
-ms.data: 08/19/2022
-ms.devlang: java
-ms.topic: reference
+ms.data: 08/22/2022
 title: Azure Microsoft Graph SDK for Java
+ms.topic: reference
+author: joshfree
 ms.author: jfree
+description: Reference for Azure Microsoft Graph SDK for Java
 ms.service: microsoftgraph
+ms.devlang: java
 ---
 # Azure Microsoft Graph SDK for Java - latest
 
