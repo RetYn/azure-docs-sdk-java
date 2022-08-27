@@ -1,12 +1,12 @@
 ---
+ms.topic: reference
+ms.author: jfree
+ms.service: databasemigrationservice
 author: joshfree
 description: Reference for Azure Database Migration Service SDK for Java
-title: Azure Database Migration Service SDK for Java
 ms.devlang: java
-ms.topic: reference
-ms.service: databasemigrationservice
-ms.author: jfree
-ms.data: 08/25/2022
+ms.data: 08/27/2022
+title: Azure Database Migration Service SDK for Java
 ---
 # Azure Database Migration Service SDK for Java - preview
 
