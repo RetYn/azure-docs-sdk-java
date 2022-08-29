@@ -1,6 +1,6 @@
 ---
 ms.data: 08/27/2022
-ms.service: functions
+ms.service: azure-functions
 author: joshfree
 ms.topic: reference
 title: Azure Functions SDK for Java
