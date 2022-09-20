@@ -5,7 +5,7 @@ ms.devlang: java
 title: Azure Functions SDK for Java
 description: Reference for Azure Functions SDK for Java
 ms.topic: reference
-ms.service: functions
+ms.service: azure-functions
 ms.author: jfree
 ---
 # Azure Functions SDK for Java - latest
